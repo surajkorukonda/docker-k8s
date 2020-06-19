@@ -7,7 +7,7 @@
 <title>Hello World web application</title>
 </head>
 <body>
-   Hello how are you???? 
+   Hello how are you Suraj???? 
 	<h1>Thanks a lot for being so patient through the session!</h1>
     	<form action="helloServlet" method="post">
     	Enter your name: <input type="text" name="username" size="20">
